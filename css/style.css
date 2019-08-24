@@ -1,0 +1,32 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+
+.page-title {
+    font-size: 36px;
+    line-height: 36px;
+}
+
+.entry-title {
+    font-size: 1.3em;
+    margin-bottom: 0;
+    text-shadow: 0 1px 1px #fff;
+}
+
+.entry-summary {
+    box-sizing: border-box;
+}
+
+.panel-heading strong {
+    font-variant: small-caps;
+    font-size: larger;
+    text-shadow: 0 0 2px darkgray;
+}
+
+h1 {
+    font-weight: 700;
+    font-family: sans-serif;
+}
